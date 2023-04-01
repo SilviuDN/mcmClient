@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mcmClient/static/css/main.5161c28c.chunk.css",
+    "main.js": "/mcmClient/static/js/main.b930c401.chunk.js",
+    "main.js.map": "/mcmClient/static/js/main.b930c401.chunk.js.map",
+    "runtime-main.js": "/mcmClient/static/js/runtime-main.cf230542.js",
+    "runtime-main.js.map": "/mcmClient/static/js/runtime-main.cf230542.js.map",
+    "static/css/2.f2512455.chunk.css": "/mcmClient/static/css/2.f2512455.chunk.css",
+    "static/js/2.09eeb9ec.chunk.js": "/mcmClient/static/js/2.09eeb9ec.chunk.js",
+    "static/js/2.09eeb9ec.chunk.js.map": "/mcmClient/static/js/2.09eeb9ec.chunk.js.map",
+    "index.html": "/mcmClient/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/mcmClient/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.5161c28c.chunk.css.map": "/mcmClient/static/css/main.5161c28c.chunk.css.map",
+    "static/js/2.09eeb9ec.chunk.js.LICENSE.txt": "/mcmClient/static/js/2.09eeb9ec.chunk.js.LICENSE.txt",
+    "static/media/add-to-svgrepo-com.327a7116.svg": "/mcmClient/static/media/add-to-svgrepo-com.327a7116.svg",
+    "static/media/delete-svgrepo-com.301b654a.svg": "/mcmClient/static/media/delete-svgrepo-com.301b654a.svg",
+    "static/media/down-arrow-svgrepo-com.1edfab86.svg": "/mcmClient/static/media/down-arrow-svgrepo-com.1edfab86.svg",
+    "static/media/duotone-eye-closed-svgrepo-com.7d44abc9.svg": "/mcmClient/static/media/duotone-eye-closed-svgrepo-com.7d44abc9.svg",
+    "static/media/duotone-eye-open-svgrepo-com.a7009b7d.svg": "/mcmClient/static/media/duotone-eye-open-svgrepo-com.a7009b7d.svg",
+    "static/media/edit-svgrepo-com.c2a53e83.svg": "/mcmClient/static/media/edit-svgrepo-com.c2a53e83.svg",
+    "static/media/IndexPage.css": "/mcmClient/static/media/linearEqSys.4cb93681.jpeg",
+    "static/media/logo.f9e09244.png": "/mcmClient/static/media/logo.f9e09244.png",
+    "static/media/play-svgrepo-com.c6fd441d.svg": "/mcmClient/static/media/play-svgrepo-com.c6fd441d.svg",
+    "static/media/up-arrow-svgrepo-com.4c6abf93.svg": "/mcmClient/static/media/up-arrow-svgrepo-com.4c6abf93.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf230542.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.09eeb9ec.chunk.js",
+    "static/css/main.5161c28c.chunk.css",
+    "static/js/main.b930c401.chunk.js"
+  ]
+}
