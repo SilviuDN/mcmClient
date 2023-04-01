@@ -1,4 +1,5 @@
 {
+  "homepage" : "https://github.com/SilviuDN/mcmClient",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,8 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build-dev": "dotenv -e .env.development react-scripts build",
     "build-prod": "dotenv -e .env.production react-scripts build",
     "build": "react-scripts build",
@@ -40,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
